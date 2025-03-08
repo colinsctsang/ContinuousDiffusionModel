@@ -1,13 +1,13 @@
 # ** train.py AND test.py WILL BE AVAILABLE AFTER THE PAPER IS PUBLISHED **
 
 # Continuous Diffusion Model for Self-supervised Denoising and Super-resolution on Fluorescence Microscopy Images
-This is the official Pytorch implementation of **"Continuous Diffusion Model for Self-supervised Denoising and Super-resolution on Fluorescence Microscopy Images" (IPMI 2025)**, written by Colin S. C. Tsang and Albert C. S. Chung.
+This is the official Pytorch implementation of ***"Continuous Diffusion Model for Self-supervised Denoising and Super-resolution on Fluorescence Microscopy Images" (IPMI 2025)***, written by Colin S. C. Tsang and Albert C. S. Chung.
 
 ## Prerequisites
 This code was tested with `Pytorch 1.13.1` and NVIDIA GeForce RTX 4080 with 16GB memory.
 
 ## Training and testing scripts
-- `train.py`: Train our Continuous Diffusion Model in a <u>self-supervised</u> manner.
+- `train.py`: Train the Continuous Diffusion Model in a <u>self-supervised</u> manner.
 
 - `test.py`: Test the model and evaluate it in RMSE and SSIM. 
 
