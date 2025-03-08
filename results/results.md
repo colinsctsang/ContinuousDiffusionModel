@@ -1,0 +1,1 @@
+Your result from training stage will be saved in this folder
