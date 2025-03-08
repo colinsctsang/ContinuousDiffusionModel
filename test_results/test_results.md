@@ -1,0 +1,1 @@
+The resultant images from testing stage will be saved in this folder
