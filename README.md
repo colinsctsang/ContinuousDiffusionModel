@@ -9,13 +9,8 @@ This code was tested with `Pytorch 1.13.1` and NVIDIA GeForce RTX 4080 with 16GB
 
 - `test.py`: Test the model and evaluate it in RMSE and SSIM. 
 
-
-## Train or test your own model
-Step 1: Download the dataset from https://github.com/IVRL/w2s and place it under the `dataset` folder.
-
-Step 2: Adjust the parameters to your desired value. 
-
-Step 3: Run `train.py` or `test.py`
+## Dataset
+We use the dataset from https://github.com/IVRL/w2s.
 
 ## Publication
 If you find this repository useful, please cite:
