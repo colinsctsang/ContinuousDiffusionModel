@@ -1,5 +1,3 @@
-# ** train.py AND test.py WILL BE AVAILABLE AFTER THE CAMERA-READY VERSION IS ACCEPTED **
-
 # Continuous Diffusion Model for Self-supervised Denoising and Super-resolution on Fluorescence Microscopy Images
 This is the official Pytorch implementation of ***"Continuous Diffusion Model for Self-supervised Denoising and Super-resolution on Fluorescence Microscopy Images" (IPMI 2025)***, written by Colin S. C. Tsang and Albert C. S. Chung.
 
