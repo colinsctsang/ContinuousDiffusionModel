@@ -8,7 +8,7 @@ This code was tested with `Pytorch 1.13.1` and NVIDIA GeForce RTX 4080 with 16GB
 We use the dataset from https://github.com/IVRL/w2s.
 
 ## How to use
-Run train.py to train the model and output the images
+Run `train.py` to train the model and output the images
 
 ## Publication
 If you find this repository useful, please cite:
