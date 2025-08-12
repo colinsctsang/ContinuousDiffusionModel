@@ -9,6 +9,7 @@ We use the dataset from https://github.com/IVRL/w2s.
 
 ## How to use
 Run `train.py` to train the model
+
 Run `test.py` to use the trained model to output images
 
 ## Publication
