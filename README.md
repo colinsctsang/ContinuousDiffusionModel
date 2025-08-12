@@ -17,7 +17,5 @@ IPMI 2025
 ## Acknowledgment
 Some codes in this repository are modified/copied from https://github.com/BUPTLdy/Pytorch-LapSRN and https://github.com/yinboc/liif
 
-The SSIM function is provided by https://github.com/jacenfox/pytorch-msssim
-
 ###### Keywords
 Keywords: Super-resolution, Denoising, Self-supervised.
