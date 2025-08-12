@@ -186,7 +186,6 @@ def train(args, argscont):
 
             # apply encoder to input noisy LR latent image
             x_t = mlp.gen_feat(x_t)
-            print(x_t.size())
 
             # U-Net to output predicted noise pixel space, att-Unet need LR_size input
             predicted_noise_LR = model_unet(x_t, t)
@@ -261,4 +260,5 @@ def launch():
 
 if __name__ == '__main__':
     launch()
+
 
