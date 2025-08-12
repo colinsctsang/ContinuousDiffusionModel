@@ -4,11 +4,6 @@ This is the official Pytorch implementation of ***"Continuous Diffusion Model fo
 ## Prerequisites
 This code was tested with `Pytorch 1.13.1` and NVIDIA GeForce RTX 4080 with 16GB memory.
 
-## Training and testing scripts
-- `train.py`: Train the Continuous Diffusion Model in a <u>self-supervised</u> manner.
-
-- `test.py`: Test the model and evaluate it in RMSE and SSIM. 
-
 ## Dataset
 We use the dataset from https://github.com/IVRL/w2s.
 
